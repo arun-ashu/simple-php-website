@@ -6,6 +6,7 @@
     <link href="<?php site_url(); ?>/template/style.css" rel="stylesheet" type="text/css" /> 
 </head>
 <body>
+
 <div class="wrap">
 
     <header>
